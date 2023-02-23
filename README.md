@@ -2,7 +2,7 @@
 
 While no one can explain it better than the [git documentation](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell) itself, I'll try and condense what branches are in simple term.
 
-Branches can be thought of as separate versions of the base branch - oftentimes called `main`. (though under the hood they're quite a bit more than that!) They allow to work on things like files, or adding features, all without changing or messing up the `main` branch. 
+Branches can be thought of as separate versions of the base branch - oftentimes called `main`. (though under the hood they're quite a bit more than that!) They allow us to work on things like files, or adding features, all without changing or messing up the `main` branch. 
 
 ## How to branch?
 
