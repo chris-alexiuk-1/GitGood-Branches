@@ -1,6 +1,3 @@
-# GitGood-Branches
-
-
 ## What are branches, anyway?
 
 While no one can explain it better than the [git documentation](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell) itself, I'll try and condense what branches are in simple term.
